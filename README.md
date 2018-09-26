@@ -1,4 +1,4 @@
-Showcases
+Showcases how to setup a python project as a project with mutliple modules.
 
 Directory setup:
 
@@ -11,6 +11,8 @@ Directory setup:
             __init__.py
             subfile.py
 ```
+
+Run the main program with `python -m programname`.
 
 ```python
 # setup.py
